@@ -7,6 +7,7 @@
 pip install python-twitter requests
 
 ```
+* Twitter Developer tools(Keys and tokens)
 ## Twitter
 5分ごとにツイートするよう動作しています
 
