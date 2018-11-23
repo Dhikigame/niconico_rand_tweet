@@ -1,10 +1,5 @@
 # coding: utf-8
 import video_parse
-import urllib.request
-import xml.etree.ElementTree as ET
-import codecs
-import sys
-import types
 
 """
 動画IDから動画情報取得し、リストで返す
